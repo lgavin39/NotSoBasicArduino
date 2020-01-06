@@ -14,7 +14,7 @@ this is the code for an LCD that says HELLO WORLD.
 # NewPing: 
 
 this is an ultrasonic sensor that will turn an LED on depending how close your hand is to the senser.  
-
+https://github.com/IsaacHuaypuna/NotSoBasicArduino/blob/master/media/Lucy-NewPing-Ultrasonic.png
 # SwitchAudioFileConverter.exe:
 
 This converts audio files into an arduino readable mp3.
